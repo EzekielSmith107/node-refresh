@@ -1,0 +1,3 @@
+generateMonster = () => {
+    console.log("test")
+}
