@@ -1,12 +1,12 @@
 [
-    {
-        "id": 1,
-        "name": "Rathalos",
-        "imageUrl": "placeholder"
-    },
-    {
-        "id": 2,
-        "name": "Kirin",
-        "imageUrl": "placeholder"
-    }
+  {
+    "id": 1,
+    "name": "Rathalos",
+    "imageUrl": "placeholder"
+  },
+  {
+    "id": 2,
+    "name": "Kirin",
+    "imageUrl": "placeholder"
+  }
 ]
