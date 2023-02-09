@@ -2,11 +2,26 @@
   {
     "id": 1,
     "name": "Rathalos",
-    "imageUrl": "placeholder"
+    "imageUrl": "https://monsterhunter.tools/img/projects/monsterhunter.tools/assets/img/highlights/mhw-monster-rathalos-gallery-crownOfTheAncientTree-39-21-0-McdPuYIy9Q8.jpg"
   },
   {
     "id": 2,
     "name": "Kirin",
-    "imageUrl": "placeholder"
+    "imageUrl": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/636640660611065851-mhw-arch-tempered-kirin.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Namielle",
+    "imageUrl": "https://themakoreactor.com/wp-content/uploads/2020/05/monster-hunter-world-iceborne-arch-tempered-namielle-full-guide.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Diablos",
+    "imageUrl": "https://vignette.wikia.nocookie.net/monsterhunter/images/0/0e/MHW-Diablos_Screenshot_001.jpg/revision/latest?cb=20171211032046"
+  },
+  {
+    "id": 5,
+    "name": "Fulgur Anjanath",
+    "imageUrl": "https://twinfinite.net/wp-content/uploads/2019/09/Screen-Shot-2019-09-06-at-10.44.47-AM.jpg"
   }
 ]
