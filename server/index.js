@@ -8,5 +8,6 @@ app.use(express.json());
 const { generateMonster } = require("./controller");
 
 // Endpoint
+app.get("/api/monster", generateMonster);
 
 app.listen(4000, () => console.log("Sever running on 4000"));
