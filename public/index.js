@@ -16,7 +16,12 @@ function createProfile(data) {
   monsterCard.innerHTML = `<img alt=${data.name} src=${data.imageUrl} />
   <p class='monster-name'>${data.name}</p>`;
 
-  monsterContainer.appendChild(monsterCard);
+  if (monsterContainer.hasChildNodes) {
+    monsterContainer.removeChild(monsterContainer.firstChild);
+    monsterContainer.appendChild(monsterCard);
+  } else {
+    monsterContainer.appendChild(monsterCard);
+  }
 }
 
 const magicButton = document.getElementById("magic-button");

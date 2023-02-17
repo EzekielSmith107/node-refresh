@@ -1,8 +1,13 @@
+img {
+  height: 50%;
+  width: 50%;
+}
+
 .button-container {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 50vh;
   width: 100vw;
 }
 
@@ -42,4 +47,12 @@
   .button-monster {
     padding: 13px 50px 13px;
   }
+}
+
+#monster-container {
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  height: 50vh;
+  width: 100vw;
 }
